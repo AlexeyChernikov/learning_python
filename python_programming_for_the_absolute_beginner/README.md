@@ -25,6 +25,12 @@ will be considered fixed values. The final price of the car should be displayed 
 
 **Code:** [car_dealer.py](./python_programming_for_the_absolute_beginner/car_dealer.py)
 
+### 5. Simulator of a pie with a surprise:
+**Description:** Write a pie-simulator program with a "surprise" that, when launched, would display one of five different 
+"Surprises" selected at random.
+
+**Code:** [surprise_pie_simulator.py](./python_programming_for_the_absolute_beginner/surprise_pie_simulator.py)
+
 ## My opinion on the book:
 - Nope
 
