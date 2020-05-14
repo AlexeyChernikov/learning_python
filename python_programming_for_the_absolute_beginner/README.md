@@ -31,6 +31,12 @@ will be considered fixed values. The final price of the car should be displayed 
 
 **Code:** [surprise_pie_simulator.py](./python_programming_for_the_absolute_beginner/surprise_pie_simulator.py)
 
+### 6. Toss a coin:
+**Description:** Write a program that would "Flip" a conditional coin 100 times and report how many times an eagle has 
+fallen, and how many tails.
+
+**Code:** [toss_a_coin.py](./python_programming_for_the_absolute_beginner/toss_a_coin.py)
+
 ## My opinion on the book:
 - Nope
 
