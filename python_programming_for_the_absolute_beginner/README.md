@@ -37,6 +37,11 @@ fallen, and how many tails.
 
 **Code:** [toss_a_coin.py](./python_programming_for_the_absolute_beginner/toss_a_coin.py)
 
+### 7. Guess the number:
+**Description:** Write a game "Guess the Number" with a limited number of attempts.
+
+**Code:** [guess_the_number.py](./python_programming_for_the_absolute_beginner/guess_the_number.py)
+
 ## My opinion on the book:
 - Nope
 
