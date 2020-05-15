@@ -42,6 +42,11 @@ fallen, and how many tails.
 
 **Code:** [guess_the_number.py](./guess_the_number.py)
 
+### 8. Guess the number (version where the computer guesses):
+**Description:** Write the game "guess the number". A person chooses a number, and the computer guesses.
+
+**Code:** [guess_the_number_computer.py](./guess_the_number_computer.py)
+
 ## My opinion on the book:
 - Nope
 
