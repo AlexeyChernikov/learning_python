@@ -45,5 +45,10 @@
 
 **Code:** [simple_counter.py](./simple_counter.py)
 
+### 10. String reverse:
+**Description:** Write a program that accepts text from user input and prints this text on the screen in reverse.
+
+**Code:** [string_reverse.py](./string_reverse.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
