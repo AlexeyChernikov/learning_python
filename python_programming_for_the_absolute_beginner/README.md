@@ -55,5 +55,10 @@
 
 **Code:** [guess_the_word.py](./guess_the_word.py)
 
+### 12. The list is in random order:
+**Description:** Create a program that will output a list of words in random order. All words from the list must be printed on the screen without repeating.
+
+**Code:** [list_in_rand_order.py](./list_in_rand_order.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
