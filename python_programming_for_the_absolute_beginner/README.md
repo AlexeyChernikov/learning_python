@@ -50,5 +50,10 @@
 
 **Code:** [string_reverse.py](./string_reverse.py)
 
+### 11. Guess the word:
+**Description:** Create a game in which the computer selects a word, and the player must guess it. The computer tells the player how many letters are in a word, and gives five attempts to find out if there is any letter in the word, with the program only able to answer "Yes" and "No". After that, the player must try to guess the word.
+
+**Code:** [guess_the_word.py](./guess_the_word.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
