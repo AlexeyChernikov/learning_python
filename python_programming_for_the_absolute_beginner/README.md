@@ -60,5 +60,10 @@
 
 **Code:** [list_in_rand_order.py](./list_in_rand_order.py)
 
+### 13. Character generator:
+**Description:** Write a "Character generator" program for a role-playing game. The user should be given 30 points, which can be distributed among four characteristics: Strength, Health, Intelligence, and Dexterity. We need to make sure that the user can not only take these items from the General "pool", but also return them there from the characteristics that they decide to assign other values to.
+
+**Code:** [character_generator.py](./character_generator.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
