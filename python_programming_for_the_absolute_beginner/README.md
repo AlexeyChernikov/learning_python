@@ -65,10 +65,15 @@
 
 **Code:** [character_generator.py](./character_generator.py)
 
-### 14. Who is your dad:
+### 14. Who is your dad?:
 **Description:** Write a program called "Who is your dad?" in which the user will enter the name of a person, and the program will name the person's father. Allow the user to add and remove son - father pairs.
 
 **Code:** [who_is_your_dad.py](./who_is_your_dad.py)
+
+### 15. Guess the number v 2.0:
+**Description:** Write a game "Guess the Number" with a limited number of attempts (differs from version 1.0 in that it is written using functions).
+
+**Code:** [guess_the_number_v2.py](./guess_the_number_v2.py)
 
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
