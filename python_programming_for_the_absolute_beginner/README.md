@@ -85,5 +85,10 @@
 
 **Code:** [test_pickle_module.py](./test_pickle_module.py)
 
+### 18. Test the standard functionality for working with files:
+**Description:** Test the standard functionality for working with files.
+
+**Code:** [test_standard_file_func.py](./test_standard_file_func.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
