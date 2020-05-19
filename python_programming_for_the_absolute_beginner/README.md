@@ -75,5 +75,15 @@
 
 **Code:** [guess_the_number_v2.py](./guess_the_number_v2.py)
 
+### 16. Test "shelve" module:
+**Description:** Test the "shelve" module.
+
+**Code:** [test_shelve_module.py](./test_shelve_module.py)
+
+### 17. Test "pickle" module:
+**Description:** Test the "pickle" module.
+
+**Code:** [test_pickle_module.py](./test_pickle_module.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
