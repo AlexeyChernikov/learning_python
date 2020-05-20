@@ -90,5 +90,10 @@
 
 **Code:** [test_standard_file_func.py](./test_standard_file_func.py)
 
+### 19. Simulated TV:
+**Description:** Create a program that simulates the TV as an object. The user must be able to enter the channel number, as well as increase and decrease the volume. The program must make sure that the channel number and volume level remain within acceptable limits.
+
+**Code:** [simulated_tv.py](./simulated_tv.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
