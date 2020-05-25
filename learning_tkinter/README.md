@@ -9,3 +9,12 @@
 **Description:** Modify the code of the previous program using the parameters of the pack() method.
 
 **Code:** [rainbow_of_btns_v2.py](./rainbow_of_btns_v2.py)
+
+### 3. Simple file editor:
+**Description:** Write a program consisting of single-line and multi-line text fields and two "Open" and "Save" buttons. When you click on the first one, a file should be opened for reading, whose name is indicated in the field of the Entry class, and the contents of the file should be loaded into the field of type Text.
+
+When you click on the second button, the text entered by the user in the Text instance should be saved in a file under the name that the user specified in the single-line text field.
+
+Files will be read and written in the same directory as the script file, if you specify file names without an address.
+
+**Code:** [simple_file_editor.py](./simple_file_editor.py)
