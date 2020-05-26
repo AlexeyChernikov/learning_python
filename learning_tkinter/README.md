@@ -18,3 +18,8 @@ When you click on the second button, the text entered by the user in the Text in
 Files will be read and written in the same directory as the script file, if you specify file names without an address.
 
 **Code:** [simple_file_editor.py](./simple_file_editor.py)
+
+### 4. Radiobuttons:
+**Description:** Write a program that has several radio buttons grouped together. If a button is enabled, the label should display the corresponding information.
+
+**Code:** [radiobuttons.py](./radiobuttons.py)
