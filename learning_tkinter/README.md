@@ -23,3 +23,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Write a program that has several radio buttons grouped together. If a button is enabled, the label should display the corresponding information.
 
 **Code:** [radiobuttons.py](./radiobuttons.py)
+
+### 5. Shopping list:
+**Description:** Write a program consisting of two Listbox lists. The first will be, for example, a list of goods specified programmatically. The second is initially empty, let it be a shopping list. When you click on one button, the product should go from one list to another. When you click on the second button - return (the person changed his mind to buy). Provide for multiple selection of list items and their movement.
+
+**Code:** [shopping_list.py](./shopping_list.py)
