@@ -33,3 +33,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Write the program as follows. Pressing Enter in a single-line text field moves the text from it to the list. If you double-click on the list item, it should be copied to the text box.
 
 **Code:** [method_bind.py](./method_bind.py)
+
+### 7. Events:
+**Description:** Write the program according to the description. The dimensions of a multi-line text field are determined by the values entered in single-line text fields. The size changes when the mouse clicks on the button, as well as when the Enter key is pressed. The background color of the Text instance is light grey when the field is out of focus, and white when it has focus.
+
+**Code:** [events.py](./events.py)
