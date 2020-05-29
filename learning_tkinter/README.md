@@ -38,3 +38,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Write the program according to the description. The dimensions of a multi-line text field are determined by the values entered in single-line text fields. The size changes when the mouse clicks on the button, as well as when the Enter key is pressed. The background color of the Text instance is light grey when the field is out of focus, and white when it has focus.
 
 **Code:** [events.py](./events.py)
+
+### 8. Canvas house:
+**Description:** Draw a house, sun and grass using Canvas.
+
+**Code:** [canvas_house.py](./canvas_house.py)
