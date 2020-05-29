@@ -43,3 +43,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Draw a house, sun and grass using Canvas.
 
 **Code:** [canvas_house.py](./canvas_house.py)
+
+### 9. Canvas animation:
+**Description:** Program the gradual movement of the figure to the point on the canvas where the user clicks with the left mouse button.
+
+**Code:** [canvas_animation.py](./canvas_animation.py)
