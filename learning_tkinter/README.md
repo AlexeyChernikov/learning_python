@@ -48,3 +48,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Program the gradual movement of the figure to the point on the canvas where the user clicks with the left mouse button.
 
 **Code:** [canvas_animation.py](./canvas_animation.py)
+
+### 10. Drawing figures:
+**Description:** Write a program that has a canvas and a "Add shape" button on the main window. The button opens a second window that includes four fields for entering coordinates and two radio buttons for choosing whether to draw a rectangle or an oval on the canvas. Here you can also find the "Draw" button, when you click on it, the corresponding shape is added to the canvas, and the second window closes. You can omit checking for correct input in the fields.
+
+**Code:** [drawing_figures.py](./drawing_figures.py)
