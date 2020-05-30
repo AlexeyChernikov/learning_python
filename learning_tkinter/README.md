@@ -53,3 +53,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Write a program that has a canvas and a "Add shape" button on the main window. The button opens a second window that includes four fields for entering coordinates and two radio buttons for choosing whether to draw a rectangle or an oval on the canvas. Here you can also find the "Draw" button, when you click on it, the corresponding shape is added to the canvas, and the second window closes. You can omit checking for correct input in the fields.
 
 **Code:** [drawing_figures.py](./drawing_figures.py)
+
+### 11. Grid testing:
+**Description:** Reprogram the second window from job 10 (Drawing figures) using the grid() method.
+
+**Code:** [grid_testing.py](./grid_testing.py)
