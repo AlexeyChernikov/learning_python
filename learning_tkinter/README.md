@@ -58,3 +58,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Reprogram the second window from job 10 (Drawing figures) using the grid() method.
 
 **Code:** [grid_testing.py](./grid_testing.py)
+
+### 12. Dialog windows:
+**Description:** Make a simple file editor with using dialog windows.
+
+**Code:** [simple_file_editor_with_dw.py](./simple_file_editor_with_dw.py)
