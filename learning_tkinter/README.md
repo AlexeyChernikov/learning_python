@@ -63,3 +63,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Make a simple file editor with using dialog windows.
 
 **Code:** [simple_file_editor_with_dw.py](./simple_file_editor_with_dw.py)
+
+### 13. Menu:
+**Description:** Modify the program from task 12 so that opening and saving files is performed not through Button instances, but through Menu. Place the text field cleanup command in the context menu.
+
+**Code:** [simple_file_editor_with_menu.py](./simple_file_editor_with_menu.py)
