@@ -95,5 +95,10 @@
 
 **Code:** [simulated_tv.py](./simulated_tv.py)
 
+### 20. Guess the number v 3.0:
+**Description:** Rewrite the game "Guess the Number" using the tkinter library.
+
+**Code:** [guess_the_number_v3.py](./guess_the_number_v3.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
