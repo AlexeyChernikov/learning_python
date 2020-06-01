@@ -68,3 +68,8 @@ Files will be read and written in the same directory as the script file, if you 
 **Description:** Modify the program from task 12 so that opening and saving files is performed not through Button instances, but through Menu. Place the text field cleanup command in the context menu.
 
 **Code:** [simple_file_editor_with_menu.py](./simple_file_editor_with_menu.py)
+
+### 14. Moving a button:
+**Description:** Write a program consisting of the main window and a button. When the button is clicked, it should appear in a new random place in the window. The window size may change.
+
+**Code:** [moving_a_button.py](./moving_a_button.py)
