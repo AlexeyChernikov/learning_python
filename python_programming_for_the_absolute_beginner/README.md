@@ -100,5 +100,10 @@
 
 **Code:** [guess_the_number_v3.py](./guess_the_number_v3.py)
 
+### 21. Check, please!:
+**Description:** Write the program "Check, please!". It should show the user a simple restaurant menu with dishes and prices, accept their order and display the invoice amount on the screen.
+
+**Code:** [check_please.py](./check_please.py)
+
 ## Useful links:
 - [To buy a book...](https://www.amazon.com/Python-Programming-Absolute-Beginner-3rd/dp/1435455002)
