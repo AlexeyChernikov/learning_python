@@ -13,3 +13,12 @@
 9. Sorting collection items
 
 **Code:** [task1.py](./task1.py)
+
+### 2. Multiples of 3 and 5:
+**Description:** If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.  
+Find the sum of all the multiples of 3 or 5 below 1000.
+
+**Code:** [multiples_of_3or5.py](./multiples_of_3or5.py)
+
+## Useful links:
+- [Project Euler](https://projecteuler.net/about)
