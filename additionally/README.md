@@ -27,5 +27,11 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 **Code:** [even_fibonacci_nums.py](./even_fibonacci_nums.py)
 
+### 4. Largest palindrome product:
+**Description:** A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.  
+Find the largest palindrome made from the product of two 3-digit numbers.
+
+**Code:** [largest_palindrome.py](./largest_palindrome.py)
+
 ## Useful links:
 - [Project Euler](https://projecteuler.net/about)
