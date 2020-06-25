@@ -1,4 +1,4 @@
-# Additional tasks on different topics:
+# Other tasks on various topics:
 ## List of written programs:
 ### 1. Task 1:
 **Description:** Complete the following tasks using the Counter collection:
